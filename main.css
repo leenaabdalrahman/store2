@@ -15,7 +15,7 @@ a{
     height: 100vh;
     width: 100%;
     align-items: center; 
-    background-color: rgb(137, 190, 255);
+    background-color: rgb(201, 157, 104);
     gap: 10px;
 }
 .products img{
@@ -57,7 +57,7 @@ a{
 .productt spam{
     color: red;
     margin-top: 20px;
-    background-color: rgb(10, 113, 239);
+    background-color: rgb(129, 98, 60);
     padding: 10px;
     border-radius: 20px;
     
@@ -65,14 +65,14 @@ a{
 .productt h2{
     margin-top: 20px;
     color: rgb(255, 255, 255);
-    background-color: rgb(10, 113, 239);
+    background-color: rgb(129, 98, 60);
     padding: 10px;
     border-radius: 20px;
 }
 .productt p{
     margin-top: 20px;
     color: rgb(255, 255, 255);
-    background-color: rgb(10, 113, 239);
+    background-color:  rgb(129, 98, 60);
     padding: 10px;
     border-radius: 20px;
 }
@@ -82,7 +82,7 @@ a{
     display: flex;
     flex-wrap: wrap;
     gap: 20px; 
-    background-color: rgb(174, 159, 254);
+    background-color:  rgb(201, 157, 104);
     
 }
 .product{
